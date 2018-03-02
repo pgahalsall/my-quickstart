@@ -1,4 +1,4 @@
 # my-quickstart
-Angular2 quickstart project
+My Angular2 quickstart project
 
-Add more info ...
+Add even more info ...
